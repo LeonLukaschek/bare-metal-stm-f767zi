@@ -1,1 +1,1 @@
-This folder contains code for flashing a bare metal STMF767ZI.
+This folder contains code for flashing basic bare metal code for the STMF767ZI.
